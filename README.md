@@ -1,16 +1,40 @@
-# React + Vite
+Carbonix - MVP 🌊🌿
+Platform Digital Penanaman Mangrove Proaktif berbasis Komunitas & Solusi Blue Carbon.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Repository ini berisi source code Minimum Viable Product (MVP) dari sistem Carbonix yang diajukan untuk Hackathon IYREF 2026 (Sub-tema: Nature-Based Solutions & Blue Economy).  
 
-Currently, two official plugins are available:
+🚀 Fitur Utama (Frontend MVP)
+Dashboard Metrik: Memantau total karbon terserap dan jumlah pohon mangrove secara real-time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Geotag Upload (Warga): Formulir bagi petani pesisir untuk melaporkan bukti penanaman bibit mangrove.
 
-## React Compiler
+Carbon Market (Corporate): Etalase lahan restorasi yang siap didanai oleh perusahaan pembeli kredit karbon.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💻 Tech Stack
+Frontend: React.js
 
-## Expanding the ESLint configuration
+Build Tool: Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Styling: Tailwind CSS
+
+Icons: Lucide React
+
+⚙️ Cara Instalasi & Menjalankan Aplikasi Lokal
+Silakan ikuti langkah berikut untuk menjalankan sistem di komputer lokal:
+
+1. Clone repository ini:
+git clone [https://github.com/raevantwinks/Carbonix-MVP.git](https://github.com/raevantwinks/Carbonix-MVP.git)
+
+2. Masuk ke dalam direktori project:
+cd Carbonix-MVP
+
+3. Install dependensi:
+npm install
+
+4. Jalankan server lokal:
+npm run dev
+
+5. Buka link ini di browser Anda:
+http://localhost:5173
+
+Dibuat oleh Tim Carbonix untuk Hackathon IYREF 2026
