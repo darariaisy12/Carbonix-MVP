@@ -15,5 +15,6 @@
 *   **Styling:** Tailwind CSS
 *   **Icons:** Lucide React
 
+**Live Demo:** [carbonix-mvp.vercel.app](https://carbonix-mvp.vercel.app)
 ---
 *Developed for IYREF 2026 Hackathon*
