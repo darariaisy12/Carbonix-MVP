@@ -1,40 +1,19 @@
-Carbonix - MVP 🌊🌿
-Platform Digital Penanaman Mangrove Proaktif berbasis Komunitas & Solusi Blue Carbon.
+# Carbonix-MVP 🌊🌿
 
-Repository ini berisi source code Minimum Viable Product (MVP) dari sistem Carbonix yang diajukan untuk Hackathon IYREF 2026 (Sub-tema: Nature-Based Solutions & Blue Economy).  
+**Carbonix** is a community-based proactive mangrove planting digital platform and a **Blue Carbon** solution. This project was developed for the **IYREF 2026 Hackathon** under the sub-theme: *Nature-Based Solutions & Blue Economy*.
 
-🚀 Fitur Utama (Frontend MVP)
-Dashboard Metrik: Memantau total karbon terserap dan jumlah pohon mangrove secara real-time.
+## 🚀 Key Features (Frontend MVP)
 
-Geotag Upload (Warga): Formulir bagi petani pesisir untuk melaporkan bukti penanaman bibit mangrove.
+*   **Metric Dashboard:** Real-time monitoring of total carbon sequestered and the current number of mangrove trees.
+*   **Geotag Upload (Citizens):** A dedicated form for coastal farmers to report and provide evidence of mangrove seedling planting.
+*   **Carbon Market (Corporate):** A showcase of restoration sites ready for funding by companies looking to purchase carbon credits.
 
-Carbon Market (Corporate): Etalase lahan restorasi yang siap didanai oleh perusahaan pembeli kredit karbon.
+## 🛠️ Tech Stack
 
-💻 Tech Stack
-Frontend: React.js
+*   **Framework:** React.js
+*   **Build Tool:** Vite
+*   **Styling:** Tailwind CSS
+*   **Icons:** Lucide React
 
-Build Tool: Vite
-
-Styling: Tailwind CSS
-
-Icons: Lucide React
-
-⚙️ Cara Instalasi & Menjalankan Aplikasi Lokal
-Silakan ikuti langkah berikut untuk menjalankan sistem di komputer lokal:
-
-1. Clone repository ini:
-git clone [https://github.com/raevantwinks/Carbonix-MVP.git](https://github.com/raevantwinks/Carbonix-MVP.git)
-
-2. Masuk ke dalam direktori project:
-cd Carbonix-MVP
-
-3. Install dependensi:
-npm install
-
-4. Jalankan server lokal:
-npm run dev
-
-5. Buka link ini di browser Anda:
-http://localhost:5173
-
-Dibuat oleh Tim Carbonix untuk Hackathon IYREF 2026
+---
+*Developed for IYREF 2026 Hackathon*
